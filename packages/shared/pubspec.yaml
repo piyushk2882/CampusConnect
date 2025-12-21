@@ -1,0 +1,43 @@
+name: shared
+description: A Very Good Project created by Very Good CLI.
+version: 0.1.0+1
+publish_to: none
+
+environment:
+  sdk: ^3.8.0
+
+dev_dependencies:
+  freezed: ^3.2.0
+  json_serializable: ^6.10.0
+  logger: ^2.6.1
+  mocktail: ^1.0.4
+  test: ^1.26.2
+  very_good_analysis: ^9.0.0
+dependencies:
+  app_ui:
+    path: ../app_ui
+  bloc_concurrency: ^0.3.0
+  blurhash: ^1.2.0
+  build_runner: ^2.7.0
+  dio: ^5.9.0
+  env:
+    path: ../env
+  equatable: ^2.0.7
+  flutter_image_compress: ^2.4.0
+  flutter_imagekit: ^0.0.6
+  freezed_annotation: ^3.1.0
+  http_parser: ^4.1.2
+  image_picker_plus:
+    path: ../image_picker_plus
+  insta_blocks:
+    path: ../insta_blocks
+  intl: ^0.20.2
+  json_annotation: ^4.9.0
+  meta: ^1.16.0
+  mime: ^2.0.0
+  ogp_data_extract: ^0.2.2
+  powersync: ^1.15.0
+  stream_transform: ^2.1.1
+  user_repository:
+    path: ../user_repository
+  video_compress: ^3.1.4

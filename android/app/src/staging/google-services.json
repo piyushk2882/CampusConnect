@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "793395115979",
+    "project_id": "campusconnect-stg",
+    "storage_bucket": "campusconnect-stg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793395115979:android:8c140de8e24aaed368284e",
+        "android_client_info": {
+          "package_name": "com.gambley1.campusconnect.stg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793395115979-vvb095cs3s5u2llibrk9bkvd5od1gp8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCke9Omq-NPOA62mBVi4NDf1vOkoBYJJOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793395115979-vvb095cs3s5u2llibrk9bkvd5od1gp8n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "793395115979-r67abakka0pin2d9kaqn3acrfh1besmf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gambley1.campusconnect.stg"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793395115979:android:5c666e2198c1cead68284e",
+        "android_client_info": {
+          "package_name": "com.piyushkarnale.campusconnect.stg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793395115979-vvb095cs3s5u2llibrk9bkvd5od1gp8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCke9Omq-NPOA62mBVi4NDf1vOkoBYJJOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793395115979-vvb095cs3s5u2llibrk9bkvd5od1gp8n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "793395115979-r67abakka0pin2d9kaqn3acrfh1besmf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gambley1.campusconnect.stg"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

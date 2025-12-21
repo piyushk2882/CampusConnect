@@ -1,0 +1,26 @@
+name: database_client
+description: A Very Good Project created by Very Good CLI.
+version: 0.1.0+1
+publish_to: none
+
+environment:
+  sdk: ^3.8.0
+  flutter: ^3.32.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  googleapis: ^15.0.0
+  googleapis_auth: ^2.0.0
+  powersync_repository:
+    path: ../powersync_repository
+  shared:
+    path: ../shared
+  user_repository:
+    path: ../user_repository
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mocktail: ^1.0.4
+  very_good_analysis: ^9.0.0

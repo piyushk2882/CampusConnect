@@ -1,0 +1,1 @@
+- [x] Add debounce to search bar in EventHubPage to prevent immediate refresh on every keystroke
